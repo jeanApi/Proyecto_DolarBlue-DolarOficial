@@ -1,4 +1,4 @@
-# Proyecto_Indicidual
+# Proyecto_Individual
 
 Tasa de Cambio Dolar Blue y Dolar Oficial en Argentina 
 
